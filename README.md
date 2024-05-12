@@ -29,3 +29,5 @@ Libraries used: -
 - matplotlib
 - networkx
 
+  ![Netflix](https://github.com/aryanshah295/Analysing-the-Network-of-Movie-Actors/assets/88359175/108de7f5-eee0-4849-8567-325aad150a58)
+
